@@ -19,6 +19,10 @@ sources/       local AUV and LLM-Codec source checkouts
 See [experiments/README.md](experiments/README.md) for the module-level map and
 the invariants that matched experiments must preserve.
 
+The full Chinese research rationale, mathematical formulation, experimental
+process, evidence boundary, and next-step plan are documented in
+[docs/research_idea_and_process_zh.md](docs/research_idea_and_process_zh.md).
+
 The third-party source trees are Git submodules. After cloning this repository,
 initialize them with:
 
