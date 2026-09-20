@@ -1,0 +1,21 @@
+# Local environments and generated Python files
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.cache/
+.mypy_cache/
+.ruff_cache/
+
+# Large local inputs and experiment outputs
+data/
+checkpoints/
+artifacts/
+logs/
+*.log
+wget-log
+
+# Editor and OS metadata
+.idea/
+.vscode/
+.DS_Store

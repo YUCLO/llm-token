@@ -1,0 +1,9 @@
+[submodule "sources/AUV"]
+	path = sources/AUV
+	url = https://github.com/SWivid/AUV.git
+[submodule "sources/llm-codec"]
+	path = sources/llm-codec
+	url = https://github.com/voidful/llm-codec.git
+[submodule "sources/WenetSpeech"]
+	path = sources/WenetSpeech
+	url = https://github.com/wenet-e2e/WenetSpeech.git

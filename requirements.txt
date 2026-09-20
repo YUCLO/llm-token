@@ -1,0 +1,14 @@
+# Install the CUDA-matched PyTorch pair separately before this file:
+#   torch==2.3.1+cu121
+#   torchaudio==2.3.1+cu121
+einops==0.8.1
+matplotlib==3.10.3
+numpy==1.26.4
+pandas==2.3.0
+pyarrow==25.0.1
+pytest==9.1.1
+scikit-learn==1.7.0
+scipy==1.16.0
+soundfile==0.14.0
+tqdm==4.67.1
+transformers==4.57.6
